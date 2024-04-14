@@ -1,7 +1,7 @@
 # 개인 취미 웹 페이지 프로젝트
 
 <div style="text-align:center;">
-<img src="./1.png" width="70%" height="50%" title="dev"/></div> <br />
+<img src="./1.png" width="85%" height="50%" title="dev"/></div> <br />
 
 이 프로젝트는 HTML 기초를 실습하면서, 개인의 취미와 관심사를 웹 페이지로 표현하는 방법을 배울 수 있습니다. 웹 페이지 디자인의 기본을 이해하고, 실제로 자신의 관심사를 소개하는 웹 사이트를 구축함으로써, 참여자는 웹 개발의 기본적인 아이디어와 기술을 습득할 수 있습니다.
 
