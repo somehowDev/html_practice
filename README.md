@@ -1,4 +1,4 @@
-# 개인 취미 웹 페이지 프로젝트
+# 개인 취미 웹 페이지 프로젝트 - HTML편
 
 <div style="text-align:center;">
 <img src="./1.png" width="85%" height="50%" title="dev"/></div> <br />
